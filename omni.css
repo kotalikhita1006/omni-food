@@ -1412,9 +1412,9 @@
                     height: 60px;
                     width: 100px;
                 }
-                #ther2{
-                    height: 5px;
-                    width: 20px;
+                #thre2{
+                    height: 60px;
+                    width: 100px;
                 }
                 #ther3{
                     height: 60px;
@@ -1423,6 +1423,7 @@
             }
            #ther4{
                 font-size: 25px;
+                width: 200px;
                 padding: 0px 20px;
            }
         }
